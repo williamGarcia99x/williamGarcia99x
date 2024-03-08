@@ -1,4 +1,4 @@
-### Hi there 👋
+### As a Software Developer 👨‍💻, my journey through the vast landscape of web development has allowed me to touch upon various technologies, ranging from SQL and C++ to Java and JavaScript, courtesy of my comprehensive university curriculum 👨‍🎓. However, it's in the realm of frontend development 🖼️💻 where my passion is concentrated. Here, I enjoy and hone my skills in crafting minimalist yet contemporary user experiences, leveraging React's robust capabilities and my expertise of JavaScript 🤓.  
 
 <!--
 **williamGarcia99x/williamGarcia99x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
